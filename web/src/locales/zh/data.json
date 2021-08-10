@@ -66,7 +66,8 @@
     "You cannot edit this content.": "你不能编辑此内容。",
     "Edit reply": "编辑回复",
     "Save": "保存",
-    "Edit topic": "编辑主题"
+    "Edit topic": "编辑主题",
+    "Please login first": "Please login first"
   },
   "move": {
     "Move topic": "移动主题",
@@ -436,7 +437,8 @@
     "Make your comment helpful for others as much as possible": "请尽量让自己的回复能够对别人有帮助",
     "Please resolve the following issues before submitting": "创建新回复过程中遇到一些问题：",
     "Delete": "删除",
-    "Edit": "编辑"
+    "Edit": "编辑",
+    "Cancel": "Cancel reply to {username}"
   },
   "poster": {
     "Poster management": "广告管理",

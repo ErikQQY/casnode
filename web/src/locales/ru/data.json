@@ -66,7 +66,8 @@
     "You cannot edit this content.": "You cannot edit this content.",
     "Edit reply": "Edit reply",
     "Save": "Save",
-    "Edit topic": "Edit topic"
+    "Edit topic": "Edit topic",
+    "Please login first": "Please login first"
   },
   "move": {
     "Move topic": "Move topic",
@@ -436,7 +437,8 @@
     "Make your comment helpful for others as much as possible": "Make your comment helpful for others as much as possible",
     "Please resolve the following issues before submitting": "Please resolve the following issues before submitting:",
     "Delete": "Delete",
-    "Edit": "Edit"
+    "Edit": "Edit",
+    "Cancel": "Cancel reply to {username}"
   },
   "poster": {
     "Poster management": "Poster management",
